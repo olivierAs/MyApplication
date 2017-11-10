@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Projet 1</string>
+    <string name="signIn">se connecter</string>
+    <string name="signUp">s\'enreigistrer</string>
+    <string name="nom">nom</string>
+    <string name="password">mot de passe</string>
+</resources>
